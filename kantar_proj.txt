@@ -1,3 +1,6 @@
 1. Whisper en Python
 2. descargar el ffmpeg para que whisper procese archivos de audio
 3. Agregar la ruta del archivo al PATH de Windows
+Aquí hay que hacer un resumen
+
+
