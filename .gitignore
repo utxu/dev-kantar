@@ -3,5 +3,7 @@
 audios/
 grabaciones/
 *.wav
+/transcripciones
+
 
 
