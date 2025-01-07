@@ -2,7 +2,9 @@
 import os
 import time
 
-
+# Este script realmente es un apoyo a la PoC6 de las trasnscripciones, las cuales 
+# nos apoyamos para comprobar si los arhicovs se han completado en base a su 
+# tamaño, etc, etc... ESTÁ RESUELTO TODO EN : PoC6_transcripcion_v3.py
 def monitorear_archivos_carpeta(carpeta, intervalo=1):
     """
     Monitorea continuamente los tamaños de los archivos en una carpeta.
